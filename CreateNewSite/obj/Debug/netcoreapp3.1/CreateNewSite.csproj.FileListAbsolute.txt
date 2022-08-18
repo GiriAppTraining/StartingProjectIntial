@@ -36,3 +36,41 @@ D:\Training\SiteNameUpdateFuture\CreateNewSite\CreateNewSite\obj\Debug\netcoreap
 D:\Training\SiteNameUpdateFuture\CreateNewSite\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.pdb
 D:\Training\SiteNameUpdateFuture\CreateNewSite\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.genruntimeconfig.cache
 D:\Training\SiteNameUpdateFuture\CreateNewSite\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.csproj.CopyComplete
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.exe
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.deps.json
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.runtimeconfig.json
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.runtimeconfig.dev.json
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.dll
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.pdb
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.Views.dll
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\bin\Debug\netcoreapp3.1\CreateNewSite.Views.pdb
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.csproj.AssemblyReference.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.AssemblyInfoInputs.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.AssemblyInfo.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.csproj.CoreCompileInputs.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.RazorAssemblyInfo.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.RazorAssemblyInfo.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\staticwebassets\CreateNewSite.StaticWebAssets.Manifest.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\staticwebassets\CreateNewSite.StaticWebAssets.xml
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\scopedcss\bundle\CreateNewSite.styles.css
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.TagHelpers.input.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.TagHelpers.output.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.RazorCoreGenerate.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.RazorTargetAssemblyInfo.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.RazorTargetAssemblyInfo.cs
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.Views.pdb
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.dll
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.pdb
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.genruntimeconfig.cache
+D:\Training\New folder\StartingProjectIntial\CreateNewSite\obj\Debug\netcoreapp3.1\CreateNewSite.csproj.CopyComplete
