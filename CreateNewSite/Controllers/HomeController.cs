@@ -1,5 +1,4 @@
-﻿using EmployeeManagement.Models;
-using EmployeeManagement.ViewModels;
+﻿using CreateNewSite.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -8,47 +7,31 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EmployeeManagement.Controllers
+namespace CreateNewSite.Controllers
 {
     public class HomeController : Controller
     {
-        private IEmployeeRepository _employeeRepository;
+        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(IEmployeeRepository employeeRepository)
+        public HomeController(ILogger<HomeController> logger)
         {
-            _employeeRepository = employeeRepository;
+            _logger = logger;
         }
 
-        public ViewResult Employees()
-        {
-            var model =  _employeeRepository.GetAllEmployees();
-            return View(model);
-        }
-        public ViewResult Details(int? Id)
-        {
-            HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()
-            {
-               Employee = _employeeRepository.GetEmployee(Id ?? 1),
-               PageTitle = "Employee Details"
-            };
-            return View(homeDetailsViewModel);
-        }
-
-        [HttpGet]
-        public ViewResult Create()
+        public IActionResult Index()
         {
             return View();
         }
-        [HttpPost]
-        public IActionResult Create(Employee employee)
-        {
-            if (ModelState.IsValid)
-            {
-                Employee newEmployee = _employeeRepository.Add(employee);
-                return RedirectToAction("details", new { id = newEmployee.Id });
-            }
 
+        public IActionResult Privacy()
+        {
             return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
